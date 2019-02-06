@@ -334,7 +334,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .qbootstrap-cover, .img{
- background-image: url(img/cover_bg.jpg);
+ background-image: url(img/cover_bg.jpeg);
   background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
